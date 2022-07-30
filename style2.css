@@ -1,0 +1,39 @@
+*{
+    margin: 30px;
+    padding: 0;
+}
+
+.box{
+    border: 2px solid black;
+    background-color: #E4F9F5;
+    font-family: 'Sacramento', cursive;
+    color: black;
+    text-align: left;
+    padding: 30px;
+}
+
+.text{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+.image{
+    width: 800px;
+    height: 350px;
+}
+
+.task3{
+    background-color: #F2D1D1;
+    font-size: 20px;
+    width: 13%;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 10px auto 10px auto;
+    border: 5px solid #7C3E66;
+    border-radius: 5px;
+}
+
+.task3:hover{
+    background-color: #00FFAB;
+}

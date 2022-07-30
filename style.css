@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: sans-serif;
+    background-image: linear-gradient(#C689C6, #FFB4B4);
+    background-repeat: no-repeat;
+    outline: 0;
+}
+
+p{
+    font-size: large;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.main{
+   margin: 30px 10px 10px 160px;
+}
+
+table{
+    width: 90%;
+    height: 400px;
+    text-align: left;
+    background: white;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-weight: 1;
+    font-size: 10px;
+}
+
+th{
+    font-weight: 1;
+    font-size: 10px;
+    padding-right: 50px;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+td{
+   padding: 8px;
+   padding-right: 80px;
+   padding-left: 10px;
+}
+
+.grey{
+    background: #F0EBE3;
+}
+
+.green{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    border: none;
+    font-size: 12px;
+}
+
+.yellow{
+    background-color: yellow;
+    color: black;
+    border-radius: 5px;
+    padding: 7px;
+    border: none;
+    font-size: 12px;
+}
+
+.red{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    border: none;
+    font-size: 12px;
+}
+
+.link{
+    padding: 10px;
+    background-color: #C9BBCF;
+    font-size: 15px;
+    width: 8%;
+    height: 30px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 10px auto 10px auto;
+    border: 5px solid #7C3E66;
+    border-radius: 5px;
+}
+
+.link:hover{
+    background-color: #00FFAB;
+}
